@@ -13,7 +13,7 @@ status](https://www.r-pkg.org/badges/version/testpack)](https://CRAN.R-project.o
 status](https://travis-ci.org/kvanallen/testpack.svg?branch=master)](https://travis-ci.org/kvanallen/testpack)
 <!-- badges: end -->
 
-The goal of testpack is to …
+The goal of testpack is to practice how to create an R package.  This package was created during SDS390: Advanced Programming taught by @beanumber at Smith College
 
 ## Installation
 
