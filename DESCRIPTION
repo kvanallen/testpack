@@ -1,0 +1,26 @@
+Package: testpack
+Title: This package is a test package
+Version: 0.0.0.9002
+Authors@R: 
+    c(person(given = "Kara",
+           family = "Van Allen",
+           role = c("aut", "cre"),
+           email = "first.last@example.com",
+           comment = structure("YOUR-ORCID-ID", .Names = "ORCID")),
+      person(given = "Fatima",
+           family = "Keita",
+           role = c("aut"),
+           email = "first.last@example.com",
+           comment = structure("YOUR-ORCID-ID", .Names = "ORCID")))
+Description: This is a paragraph describing what this package does.
+License: GPL-3
+Depends: R (>= 2.10)
+Suggests: 
+    testthat (>= 2.1.0)
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.1.1
+Imports: 
+    crayon,
+    emo
